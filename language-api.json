@@ -1,4 +1,5 @@
-{
+
+'{
     "Afghanistan" : "ps",
     "Albania" : "sq",
     "Algeria" : "ar",
@@ -128,4 +129,4 @@
     "Vietnam" : "vi",
     "Yemen" : "ar",
     "Zimbabwe" : "en"
-}
+ }'
